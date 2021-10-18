@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BluePrismtechTest": {
+      "commandName": "Project",
+      "commandLineArgs": "--DictionaryFile \"C:\\Users\\matth\\Desktop\\words-english.txt\" --ResultFile \"C:\\Users\\matth\\Desktop\\word-ladder-result.txt\" --StartWord zone --EndWord grit"
+    }
+  }
+}
